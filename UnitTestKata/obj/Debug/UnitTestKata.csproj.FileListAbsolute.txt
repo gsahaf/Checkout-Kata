@@ -1,0 +1,8 @@
+C:\Golnaz Files\Mailen\Checkout Kata\UnitTestKata\bin\Debug\UnitTestKata.dll
+C:\Golnaz Files\Mailen\Checkout Kata\UnitTestKata\bin\Debug\UnitTestKata.pdb
+C:\Golnaz Files\Mailen\Checkout Kata\UnitTestKata\bin\Debug\Checkout Kata.dll
+C:\Golnaz Files\Mailen\Checkout Kata\UnitTestKata\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Golnaz Files\Mailen\Checkout Kata\UnitTestKata\bin\Debug\Checkout Kata.pdb
+C:\Golnaz Files\Mailen\Checkout Kata\UnitTestKata\obj\Debug\UnitTestKata.csprojResolveAssemblyReference.cache
+C:\Golnaz Files\Mailen\Checkout Kata\UnitTestKata\obj\Debug\UnitTestKata.dll
+C:\Golnaz Files\Mailen\Checkout Kata\UnitTestKata\obj\Debug\UnitTestKata.pdb

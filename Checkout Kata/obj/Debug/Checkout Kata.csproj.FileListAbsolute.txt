@@ -1,0 +1,5 @@
+C:\Golnaz Files\Mailen\Checkout Kata\Checkout Kata\bin\Debug\Checkout Kata.dll
+C:\Golnaz Files\Mailen\Checkout Kata\Checkout Kata\bin\Debug\Checkout Kata.pdb
+C:\Golnaz Files\Mailen\Checkout Kata\Checkout Kata\obj\Debug\Checkout Kata.dll
+C:\Golnaz Files\Mailen\Checkout Kata\Checkout Kata\obj\Debug\Checkout Kata.pdb
+C:\Golnaz Files\Mailen\Checkout Kata\Checkout Kata\obj\Debug\Checkout Kata.csprojResolveAssemblyReference.cache
